@@ -30,9 +30,7 @@
 
 <p align="center"> A passionate frontend developer with a strong foundation in HTML, CSS, JavaScript, and React.js. I have experience building responsive and user-friendly web applications, focusing on clean code, performance optimization, and seamless user experiences. I’ve worked with tools and libraries like React Router, React Query, Redux Toolkit, Tailwind CSS, Sass, and Styled Components to create dynamic and scalable web applications. I’m also experienced in handling API integrations, state management, and implementing best practices for accessibility and mobile-first design. **<br>  </p>
 
-<h4 align="left">-🔭 I’m working as a Frontend Developer</h3>
-<h4 align="left">-📚 I'm currently learning 👉 Node.js and backend development to expand my full-stack skills.</h3>
-<h4 align="left">-👯 I’m looking to collaborate on 👉 real-world projects with developers who share a passion for building great web applications.</h3>
+<h4 align="left">-🔭 I’m working as a Frontend Developer <br> -📚 I'm currently learning 👉 Node.js and backend development to expand my full-stack skills  <br> -👯 I’m looking to collaborate on 👉 real-world projects with developers who share a passion for building great web applications.</h4>
 
 <br>
 
